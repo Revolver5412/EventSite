@@ -1,0 +1,3 @@
+[template]
+src = "conditional_redirect.conf.tmpl"
+dest = "/etc/nginx/conditional_redirect.conf"

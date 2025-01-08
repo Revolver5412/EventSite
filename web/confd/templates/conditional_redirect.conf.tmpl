@@ -1,0 +1,53 @@
+#  Gatekeeper with main logic for redirecting to cookie consent page
+
+if ($http_cookie !~* '(cookie_policy|boxrox_premium)') {
+    set $should_redirect 'true';
+}
+
+if ($is_in_eu != 'true') {
+    set $should_redirect 'false';
+}
+
+if ($is_ip_whitelisted = 'true') {
+    set $should_redirect 'false';
+}
+
+if ($is_agent_whitelisted = 'true') {
+    set $should_redirect 'false';
+}
+
+# Exclude urls, these are never redirected, so users can read agreements and view static assets
+
+if ($request_uri ~* '^/wp-admin') {
+    set $should_redirect 'false';
+}
+
+if ($request_uri ~* '^/my-account') {
+    set $should_redirect 'false';
+}
+
+if ($request_uri ~* '^/(plans|checkout|order)') {
+    set $should_redirect 'false';
+}
+
+if ($request_uri ~* '^/legal/*') {
+    set $should_redirect 'false';
+}
+
+if ($request_uri ~* 'ajax') {
+   set $should_redirect 'false';
+}
+
+if ($request_uri ~* '(sitemap|ads\.txt|robots\.txt)') {
+  set $should_redirect 'false';
+}
+
+if (-f $request_filename) {
+    set $should_redirect 'false';
+}
+
+# Finally - redirect to the cookie consent page if conditions are met
+
+if ($should_redirect = 'true') {
+    return 302 /legal/cookie-consent/;
+}

@@ -1,0 +1,9 @@
+map $http_user_agent $is_agent_whitelisted {
+    ~*(Googlebot|Googlebot-Image|Google-Site-Verification|Google\ Web\ Preview) 'true';
+    ~*(Lighthouse|lighthouse|Page\ Speed|Insights) 'true'; # <- PageSpeed exclude
+    ~*(Bing|bing|Bingbot|bingbot) 'true';
+    ~*(Stripe|stripe) 'true';
+    ~*(facebook) 'true';
+
+    default 'false';
+}

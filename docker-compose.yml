@@ -1,0 +1,96 @@
+version: "3.9"
+
+services:
+   
+  php:
+    container_name: php
+    image: boilerplate/php-server
+    volumes:
+      - ./website:/var/www/html
+    build:
+      context: ./php
+    restart: always
+    depends_on:
+      - db
+    networks:
+      - boilerplate_network
+
+  web:
+    build:
+      context: ./web
+    restart: always
+    container_name: web
+    volumes:
+      - ./website:/var/www/html:ro
+    ports:
+      - "8443:443"  # Updated port
+      - "8080:80"   # Updated port
+    depends_on:
+      - php
+      - phpmyadmin
+    environment:
+      SERVER_NAME: localhost
+      PHP_SERVER: php
+    networks:
+      - boilerplate_network
+
+  db:
+    image: mariadb:10.8.3-jammy
+    container_name: db
+    volumes:
+      - db:/var/lib/mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: change_me
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress_user
+      MYSQL_PASSWORD: wordpress_password
+    networks:
+      - boilerplate_network
+    ports:
+      - "3307:3306"  # Updated port
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin
+    restart: always
+    ports:
+      - "9001:80"  # Updated port
+    networks:
+      - boilerplate_network
+    environment:
+      PMA_HOST: db
+      PMA_PORT: 3306  # Updated port
+      PMA_USER: root
+      PMA_PASSWORD: change_me
+
+  redis:
+    image: redis:alpine
+    command: redis-server --requirepass yourpasswordisinvalid
+    networks:
+      - boilerplate_network
+
+  cron:
+    container_name: cron
+    image: boilerplate/php-server
+    build:
+      context: ./php
+    command: ["sh","/cron/start.sh"]
+    user: root
+    volumes:
+      - ./website:/var/www/html
+      - ./cron:/cron:ro
+    depends_on:
+      - php
+    networks:
+      - boilerplate_network
+
+
+volumes:
+  db: {}
+  html: {}
+
+networks:
+  boilerplate_network:
+    name: "boilerplate_network"

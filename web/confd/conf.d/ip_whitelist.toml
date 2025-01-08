@@ -1,0 +1,3 @@
+[template]
+src = "ip_whitelist.conf.tmpl"
+dest = "/etc/nginx/ip_whitelist.conf"

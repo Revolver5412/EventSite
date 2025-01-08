@@ -1,0 +1,55 @@
+user www-data;
+worker_processes auto;
+pid /run/nginx.pid;
+
+events {
+	worker_connections 768;
+}
+
+http {
+	##################
+	# BASIC SETTINGS #
+	##################
+	sendfile on;
+	tcp_nopush on;
+	tcp_nodelay on;
+	keepalive_timeout 65;
+	types_hash_max_size 2048;
+
+	include /etc/nginx/mime.types;
+	default_type application/octet-stream;
+
+	################
+	# SSL SETTINGS #
+	################
+    # Dropping SSLv3, ref: POODLE
+	ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
+	ssl_prefer_server_ciphers on;
+
+	####################
+	# LOGGING SETTINGS #
+	####################
+	access_log /dev/stdout;
+	error_log /dev/stdout debug;
+
+	#################
+	# GZIP SETTINGS #
+	#################
+	gzip on;
+	gzip_disable "msie6";
+
+	# set limiter
+	limit_req_zone $binary_remote_addr zone=main:20m rate=80r/s;
+
+    # Define global variable:
+    # https://stackoverflow.com/a/14447286
+    map $host $garbage_port {
+        default 65000;
+    }
+
+    include /etc/nginx/user_agents.conf;
+    include /etc/nginx/ip_whitelist.conf;
+
+    # load other configurations
+	include /etc/nginx/sites-enabled/*;
+}

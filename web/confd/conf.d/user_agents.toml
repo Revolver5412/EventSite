@@ -1,0 +1,3 @@
+[template]
+src = "user_agents.conf.tmpl"
+dest = "/etc/nginx/user_agents.conf"

@@ -1,0 +1,2110 @@
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:49:17 UTC] First Name: 
+[19-Dec-2024 23:49:17 UTC] First Name: 
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:49:17 UTC] Last Name: 
+[19-Dec-2024 23:49:17 UTC] Last Name: 
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:49:17 UTC] Email: 
+[19-Dec-2024 23:49:17 UTC] Email: 
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:49:17 UTC] Phone: 
+[19-Dec-2024 23:49:17 UTC] Phone: 
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:49:17 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:49:17 UTC] Event ID: 
+[19-Dec-2024 23:49:17 UTC] Event ID: 
+[19-Dec-2024 23:49:17 UTC] AjaxHandler initialized
+[19-Dec-2024 23:49:17 UTC] AjaxHandler initialized
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:49:27 UTC] First Name: 
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:49:27 UTC] Last Name: 
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:49:27 UTC] Email: 
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:49:27 UTC] Phone: 
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:49:27 UTC] Event ID: 
+[19-Dec-2024 23:49:27 UTC] AjaxHandler initialized
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:49:27 UTC] First Name: 
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:49:27 UTC] Last Name: 
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:49:27 UTC] Email: 
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:49:27 UTC] Phone: 
+[19-Dec-2024 23:49:27 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:49:27 UTC] Event ID: 
+[19-Dec-2024 23:49:27 UTC] AjaxHandler initialized
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:49:48 UTC] First Name: 
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:49:48 UTC] Last Name: 
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:49:48 UTC] Email: 
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:49:48 UTC] Phone: 
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:49:48 UTC] Event ID: 
+[19-Dec-2024 23:49:48 UTC] AjaxHandler initialized
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:49:48 UTC] First Name: 
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:49:48 UTC] Last Name: 
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:49:48 UTC] Email: 
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:49:48 UTC] Phone: 
+[19-Dec-2024 23:49:48 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:49:48 UTC] Event ID: 
+[19-Dec-2024 23:49:48 UTC] AjaxHandler initialized
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:50:30 UTC] First Name: 
+[19-Dec-2024 23:50:30 UTC] First Name: 
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:50:30 UTC] Last Name: 
+[19-Dec-2024 23:50:30 UTC] Last Name: 
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:50:30 UTC] Email: 
+[19-Dec-2024 23:50:30 UTC] Email: 
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:50:30 UTC] Phone: 
+[19-Dec-2024 23:50:30 UTC] Phone: 
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:50:30 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:50:30 UTC] Event ID: 
+[19-Dec-2024 23:50:30 UTC] Event ID: 
+[19-Dec-2024 23:50:30 UTC] AjaxHandler initialized
+[19-Dec-2024 23:50:30 UTC] AjaxHandler initialized
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:51:28 UTC] First Name: 
+[19-Dec-2024 23:51:28 UTC] First Name: 
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:51:28 UTC] Last Name: 
+[19-Dec-2024 23:51:28 UTC] Last Name: 
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:51:28 UTC] Email: 
+[19-Dec-2024 23:51:28 UTC] Email: 
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:51:28 UTC] Phone: 
+[19-Dec-2024 23:51:28 UTC] Phone: 
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:51:28 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:51:28 UTC] Event ID: 
+[19-Dec-2024 23:51:28 UTC] Event ID: 
+[19-Dec-2024 23:51:28 UTC] AjaxHandler initialized
+[19-Dec-2024 23:51:28 UTC] AjaxHandler initialized
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:51:49 UTC] First Name: 
+[19-Dec-2024 23:51:49 UTC] First Name: 
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:51:49 UTC] Last Name: 
+[19-Dec-2024 23:51:49 UTC] Last Name: 
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:51:49 UTC] Email: 
+[19-Dec-2024 23:51:49 UTC] Email: 
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:51:49 UTC] Phone: 
+[19-Dec-2024 23:51:49 UTC] Phone: 
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:51:49 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:51:49 UTC] Event ID: 
+[19-Dec-2024 23:51:49 UTC] Event ID: 
+[19-Dec-2024 23:51:49 UTC] AjaxHandler initialized
+[19-Dec-2024 23:51:49 UTC] AjaxHandler initialized
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:52:31 UTC] First Name: 
+[19-Dec-2024 23:52:31 UTC] First Name: 
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:52:31 UTC] Last Name: 
+[19-Dec-2024 23:52:31 UTC] Last Name: 
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:52:31 UTC] Email: 
+[19-Dec-2024 23:52:31 UTC] Email: 
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:52:31 UTC] Phone: 
+[19-Dec-2024 23:52:31 UTC] Phone: 
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:52:31 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:52:31 UTC] Event ID: 
+[19-Dec-2024 23:52:31 UTC] Event ID: 
+[19-Dec-2024 23:52:31 UTC] AjaxHandler initialized
+[19-Dec-2024 23:52:31 UTC] AjaxHandler initialized
+[19-Dec-2024 23:53:19 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:53:19 UTC] First Name: 
+[19-Dec-2024 23:53:19 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:53:19 UTC] Last Name: 
+[19-Dec-2024 23:53:19 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:53:19 UTC] Email: 
+[19-Dec-2024 23:53:19 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:53:19 UTC] Phone: 
+[19-Dec-2024 23:53:19 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:53:19 UTC] Event ID: 
+[19-Dec-2024 23:53:19 UTC] AjaxHandler initialized
+[19-Dec-2024 23:53:23 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:53:23 UTC] First Name: 
+[19-Dec-2024 23:53:23 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:53:23 UTC] Last Name: 
+[19-Dec-2024 23:53:23 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:53:23 UTC] Email: 
+[19-Dec-2024 23:53:23 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:53:23 UTC] Phone: 
+[19-Dec-2024 23:53:23 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:53:23 UTC] Event ID: 
+[19-Dec-2024 23:53:23 UTC] AjaxHandler initialized
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:53:29 UTC] First Name: 
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:53:29 UTC] Last Name: 
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:53:29 UTC] Email: 
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:53:29 UTC] Phone: 
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:53:29 UTC] Event ID: 
+[19-Dec-2024 23:53:29 UTC] AjaxHandler initialized
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:53:29 UTC] First Name: 
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:53:29 UTC] Last Name: 
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:53:29 UTC] Email: 
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:53:29 UTC] Phone: 
+[19-Dec-2024 23:53:29 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:53:29 UTC] Event ID: 
+[19-Dec-2024 23:53:29 UTC] AjaxHandler initialized
+[19-Dec-2024 23:53:48 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:53:48 UTC] First Name: 
+[19-Dec-2024 23:53:48 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:53:48 UTC] Last Name: 
+[19-Dec-2024 23:53:48 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:53:48 UTC] Email: 
+[19-Dec-2024 23:53:48 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:53:48 UTC] Phone: 
+[19-Dec-2024 23:53:48 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:53:48 UTC] Event ID: 
+[19-Dec-2024 23:53:48 UTC] AjaxHandler initialized
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:53:50 UTC] First Name: 
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:53:50 UTC] Last Name: 
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:53:50 UTC] Email: 
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:53:50 UTC] Phone: 
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:53:50 UTC] Event ID: 
+[19-Dec-2024 23:53:50 UTC] AjaxHandler initialized
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:53:50 UTC] First Name: 
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:53:50 UTC] Last Name: 
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:53:50 UTC] Email: 
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:53:50 UTC] Phone: 
+[19-Dec-2024 23:53:50 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:53:50 UTC] Event ID: 
+[19-Dec-2024 23:53:50 UTC] AjaxHandler initialized
+[19-Dec-2024 23:53:51 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:53:51 UTC] First Name: 
+[19-Dec-2024 23:53:51 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:53:51 UTC] Last Name: 
+[19-Dec-2024 23:53:51 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:53:51 UTC] Email: 
+[19-Dec-2024 23:53:51 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:53:51 UTC] Phone: 
+[19-Dec-2024 23:53:51 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:53:51 UTC] Event ID: 
+[19-Dec-2024 23:53:51 UTC] AjaxHandler initialized
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:54:31 UTC] First Name: 
+[19-Dec-2024 23:54:31 UTC] First Name: 
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:54:31 UTC] Last Name: 
+[19-Dec-2024 23:54:31 UTC] Last Name: 
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:54:31 UTC] Email: 
+[19-Dec-2024 23:54:31 UTC] Email: 
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:54:31 UTC] Phone: 
+[19-Dec-2024 23:54:31 UTC] Phone: 
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:54:31 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:54:31 UTC] Event ID: 
+[19-Dec-2024 23:54:31 UTC] Event ID: 
+[19-Dec-2024 23:54:31 UTC] AjaxHandler initialized
+[19-Dec-2024 23:54:31 UTC] AjaxHandler initialized
+[19-Dec-2024 23:54:42 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:54:42 UTC] First Name: 
+[19-Dec-2024 23:54:42 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:54:42 UTC] Last Name: 
+[19-Dec-2024 23:54:42 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:54:42 UTC] Email: 
+[19-Dec-2024 23:54:42 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:54:42 UTC] Phone: 
+[19-Dec-2024 23:54:42 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:54:42 UTC] Event ID: 
+[19-Dec-2024 23:54:42 UTC] AjaxHandler initialized
+[19-Dec-2024 23:54:44 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 21
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:55:30 UTC] First Name: 
+[19-Dec-2024 23:55:30 UTC] First Name: 
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:55:30 UTC] Last Name: 
+[19-Dec-2024 23:55:30 UTC] Last Name: 
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:55:30 UTC] Email: 
+[19-Dec-2024 23:55:30 UTC] Email: 
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:55:30 UTC] Phone: 
+[19-Dec-2024 23:55:30 UTC] Phone: 
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:55:30 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:55:30 UTC] Event ID: 
+[19-Dec-2024 23:55:30 UTC] Event ID: 
+[19-Dec-2024 23:55:30 UTC] AjaxHandler initialized
+[19-Dec-2024 23:55:30 UTC] AjaxHandler initialized
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:56:31 UTC] First Name: 
+[19-Dec-2024 23:56:31 UTC] First Name: 
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:56:31 UTC] Last Name: 
+[19-Dec-2024 23:56:31 UTC] Last Name: 
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:56:31 UTC] Email: 
+[19-Dec-2024 23:56:31 UTC] Email: 
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:56:31 UTC] Phone: 
+[19-Dec-2024 23:56:31 UTC] Phone: 
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:56:31 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:56:31 UTC] Event ID: 
+[19-Dec-2024 23:56:31 UTC] Event ID: 
+[19-Dec-2024 23:56:31 UTC] AjaxHandler initialized
+[19-Dec-2024 23:56:31 UTC] AjaxHandler initialized
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:57:31 UTC] First Name: 
+[19-Dec-2024 23:57:31 UTC] First Name: 
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:57:31 UTC] Last Name: 
+[19-Dec-2024 23:57:31 UTC] Last Name: 
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:57:31 UTC] Email: 
+[19-Dec-2024 23:57:31 UTC] Email: 
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:57:31 UTC] Phone: 
+[19-Dec-2024 23:57:31 UTC] Phone: 
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:57:31 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:57:31 UTC] Event ID: 
+[19-Dec-2024 23:57:31 UTC] Event ID: 
+[19-Dec-2024 23:57:31 UTC] AjaxHandler initialized
+[19-Dec-2024 23:57:31 UTC] AjaxHandler initialized
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:58:32 UTC] First Name: 
+[19-Dec-2024 23:58:32 UTC] First Name: 
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:58:32 UTC] Last Name: 
+[19-Dec-2024 23:58:32 UTC] Last Name: 
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:58:32 UTC] Email: 
+[19-Dec-2024 23:58:32 UTC] Email: 
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:58:32 UTC] Phone: 
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:58:32 UTC] Phone: 
+[19-Dec-2024 23:58:32 UTC] Event ID: 
+[19-Dec-2024 23:58:32 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:58:32 UTC] AjaxHandler initialized
+[19-Dec-2024 23:58:32 UTC] Event ID: 
+[19-Dec-2024 23:58:32 UTC] AjaxHandler initialized
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[19-Dec-2024 23:59:32 UTC] First Name: 
+[19-Dec-2024 23:59:32 UTC] First Name: 
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[19-Dec-2024 23:59:32 UTC] Last Name: 
+[19-Dec-2024 23:59:32 UTC] Last Name: 
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[19-Dec-2024 23:59:32 UTC] Email: 
+[19-Dec-2024 23:59:32 UTC] Email: 
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[19-Dec-2024 23:59:32 UTC] Phone: 
+[19-Dec-2024 23:59:32 UTC] Phone: 
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:59:32 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[19-Dec-2024 23:59:32 UTC] Event ID: 
+[19-Dec-2024 23:59:32 UTC] Event ID: 
+[19-Dec-2024 23:59:32 UTC] AjaxHandler initialized
+[19-Dec-2024 23:59:32 UTC] AjaxHandler initialized
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[20-Dec-2024 00:00:33 UTC] First Name: 
+[20-Dec-2024 00:00:33 UTC] First Name: 
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[20-Dec-2024 00:00:33 UTC] Last Name: 
+[20-Dec-2024 00:00:33 UTC] Last Name: 
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[20-Dec-2024 00:00:33 UTC] Email: 
+[20-Dec-2024 00:00:33 UTC] Email: 
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[20-Dec-2024 00:00:33 UTC] Phone: 
+[20-Dec-2024 00:00:33 UTC] Phone: 
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[20-Dec-2024 00:00:33 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[20-Dec-2024 00:00:33 UTC] Event ID: 
+[20-Dec-2024 00:00:33 UTC] Event ID: 
+[20-Dec-2024 00:00:33 UTC] AjaxHandler initialized
+[20-Dec-2024 00:00:33 UTC] AjaxHandler initialized
+[20-Dec-2024 00:00:35 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 56
+[20-Dec-2024 00:00:35 UTC] First Name: 
+[20-Dec-2024 00:00:35 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 57
+[20-Dec-2024 00:00:35 UTC] Last Name: 
+[20-Dec-2024 00:00:35 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 58
+[20-Dec-2024 00:00:35 UTC] Email: 
+[20-Dec-2024 00:00:35 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 59
+[20-Dec-2024 00:00:35 UTC] Phone: 
+[20-Dec-2024 00:00:35 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 60
+[20-Dec-2024 00:00:35 UTC] Event ID: 
+[20-Dec-2024 00:00:35 UTC] AjaxHandler initialized
+[20-Dec-2024 00:01:00 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:01:00 UTC] First Name: 
+[20-Dec-2024 00:01:00 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:01:00 UTC] Last Name: 
+[20-Dec-2024 00:01:00 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:01:00 UTC] Email: 
+[20-Dec-2024 00:01:00 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:01:00 UTC] Phone: 
+[20-Dec-2024 00:01:00 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:01:00 UTC] Event ID: 
+[20-Dec-2024 00:01:00 UTC] AjaxHandler initialized
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:01:04 UTC] First Name: 
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:01:04 UTC] Last Name: 
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:01:04 UTC] Email: 
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:01:04 UTC] Phone: 
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:01:04 UTC] Event ID: 
+[20-Dec-2024 00:01:04 UTC] AjaxHandler initialized
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:01:04 UTC] First Name: 
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:01:04 UTC] Last Name: 
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:01:04 UTC] Email: 
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:01:04 UTC] Phone: 
+[20-Dec-2024 00:01:04 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:01:04 UTC] Event ID: 
+[20-Dec-2024 00:01:04 UTC] AjaxHandler initialized
+[20-Dec-2024 00:01:05 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:01:05 UTC] First Name: 
+[20-Dec-2024 00:01:05 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:01:05 UTC] Last Name: 
+[20-Dec-2024 00:01:05 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:01:05 UTC] Email: 
+[20-Dec-2024 00:01:05 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:01:05 UTC] Phone: 
+[20-Dec-2024 00:01:05 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:01:05 UTC] Event ID: 
+[20-Dec-2024 00:01:05 UTC] AjaxHandler initialized
+[20-Dec-2024 00:01:20 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:01:20 UTC] First Name: 
+[20-Dec-2024 00:01:20 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:01:20 UTC] Last Name: 
+[20-Dec-2024 00:01:20 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:01:20 UTC] Email: 
+[20-Dec-2024 00:01:20 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:01:20 UTC] Phone: 
+[20-Dec-2024 00:01:20 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:01:20 UTC] Event ID: 
+[20-Dec-2024 00:01:20 UTC] AjaxHandler initialized
+[20-Dec-2024 00:01:21 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 22
+[20-Dec-2024 00:01:21 UTC] Sanitized Values - Event Slug: , First Name: Val, Last Name: Che, Email: szvdgsdzesvd@gmail.com, Phone: 0897259872
+[20-Dec-2024 00:01:21 UTC] Required fields missing
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:01:33 UTC] First Name: 
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:01:33 UTC] Last Name: 
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:01:33 UTC] Email: 
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:01:33 UTC] Phone: 
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:01:33 UTC] Event ID: 
+[20-Dec-2024 00:01:33 UTC] AjaxHandler initialized
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:01:33 UTC] First Name: 
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:01:33 UTC] Last Name: 
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:01:33 UTC] Email: 
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:01:33 UTC] Phone: 
+[20-Dec-2024 00:01:33 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:01:33 UTC] Event ID: 
+[20-Dec-2024 00:01:33 UTC] AjaxHandler initialized
+[20-Dec-2024 00:01:35 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:01:35 UTC] First Name: 
+[20-Dec-2024 00:01:35 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:01:35 UTC] Last Name: 
+[20-Dec-2024 00:01:35 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:01:35 UTC] Email: 
+[20-Dec-2024 00:01:35 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:01:35 UTC] Phone: 
+[20-Dec-2024 00:01:35 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:01:35 UTC] Event ID: 
+[20-Dec-2024 00:01:35 UTC] AjaxHandler initialized
+[20-Dec-2024 00:03:05 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:03:05 UTC] First Name: 
+[20-Dec-2024 00:03:05 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:03:05 UTC] Last Name: 
+[20-Dec-2024 00:03:05 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:03:05 UTC] Email: 
+[20-Dec-2024 00:03:05 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:03:05 UTC] Phone: 
+[20-Dec-2024 00:03:05 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:03:05 UTC] Event ID: 
+[20-Dec-2024 00:03:05 UTC] AjaxHandler initialized
+[20-Dec-2024 00:03:07 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:03:07 UTC] First Name: 
+[20-Dec-2024 00:03:07 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:03:07 UTC] Last Name: 
+[20-Dec-2024 00:03:07 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:03:07 UTC] Email: 
+[20-Dec-2024 00:03:07 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:03:07 UTC] Phone: 
+[20-Dec-2024 00:03:07 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:03:07 UTC] Event ID: 
+[20-Dec-2024 00:03:07 UTC] AjaxHandler initialized
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:03:35 UTC] First Name: 
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:03:35 UTC] Last Name: 
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:03:35 UTC] Email: 
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:03:35 UTC] Phone: 
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:03:35 UTC] Event ID: 
+[20-Dec-2024 00:03:35 UTC] AjaxHandler initialized
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:03:35 UTC] First Name: 
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:03:35 UTC] Last Name: 
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:03:35 UTC] Email: 
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:03:35 UTC] Phone: 
+[20-Dec-2024 00:03:35 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:03:35 UTC] Event ID: 
+[20-Dec-2024 00:03:35 UTC] AjaxHandler initialized
+[20-Dec-2024 00:05:06 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:05:06 UTC] First Name: 
+[20-Dec-2024 00:05:06 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:05:06 UTC] Last Name: 
+[20-Dec-2024 00:05:06 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:05:06 UTC] Email: 
+[20-Dec-2024 00:05:06 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:05:06 UTC] Phone: 
+[20-Dec-2024 00:05:06 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:05:06 UTC] Event ID: 
+[20-Dec-2024 00:05:06 UTC] AjaxHandler initialized
+[20-Dec-2024 00:05:08 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:05:08 UTC] First Name: 
+[20-Dec-2024 00:05:08 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:05:08 UTC] Last Name: 
+[20-Dec-2024 00:05:08 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:05:08 UTC] Email: 
+[20-Dec-2024 00:05:08 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:05:08 UTC] Phone: 
+[20-Dec-2024 00:05:08 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:05:08 UTC] Event ID: 
+[20-Dec-2024 00:05:08 UTC] AjaxHandler initialized
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $first_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 64
+[20-Dec-2024 00:05:35 UTC] First Name: 
+[20-Dec-2024 00:05:35 UTC] First Name: 
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $last_name in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 65
+[20-Dec-2024 00:05:35 UTC] Last Name: 
+[20-Dec-2024 00:05:35 UTC] Last Name: 
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $email in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 66
+[20-Dec-2024 00:05:35 UTC] Email: 
+[20-Dec-2024 00:05:35 UTC] Email: 
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $phone in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 67
+[20-Dec-2024 00:05:35 UTC] Phone: 
+[20-Dec-2024 00:05:35 UTC] Phone: 
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:05:35 UTC] PHP Warning:  Undefined variable $event_id in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 68
+[20-Dec-2024 00:05:35 UTC] Event ID: 
+[20-Dec-2024 00:05:35 UTC] Event ID: 
+[20-Dec-2024 00:05:35 UTC] AjaxHandler initialized
+[20-Dec-2024 00:05:35 UTC] AjaxHandler initialized
+[20-Dec-2024 00:06:27 UTC] AjaxHandler initialized
+[20-Dec-2024 00:06:32 UTC] AjaxHandler initialized
+[20-Dec-2024 00:06:39 UTC] AjaxHandler initialized
+[20-Dec-2024 00:06:41 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 22
+[20-Dec-2024 00:06:41 UTC] Sanitized Values - Event Slug: , First Name: Val, Last Name: Che, Email: Valentin.Chetian@gmail.com, Phone: 0987654356789567896789567895678
+[20-Dec-2024 00:06:41 UTC] Required fields missing
+[20-Dec-2024 00:07:06 UTC] AjaxHandler initialized
+[20-Dec-2024 00:07:09 UTC] AjaxHandler initialized
+[20-Dec-2024 00:07:36 UTC] AjaxHandler initialized
+[20-Dec-2024 00:07:36 UTC] AjaxHandler initialized
+[20-Dec-2024 00:09:08 UTC] AjaxHandler initialized
+[20-Dec-2024 00:09:10 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:26 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:44 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:45 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:47 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:48 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:49 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:50 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:51 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:51 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:51 UTC] AjaxHandler initialized
+[20-Dec-2024 18:28:59 UTC] AjaxHandler initialized
+[20-Dec-2024 18:30:41 UTC] AjaxHandler initialized
+[20-Dec-2024 18:30:41 UTC] AjaxHandler initialized
+[20-Dec-2024 18:30:43 UTC] AjaxHandler initialized
+[20-Dec-2024 18:30:49 UTC] AjaxHandler initialized
+[20-Dec-2024 18:31:02 UTC] AjaxHandler initialized
+[20-Dec-2024 18:31:12 UTC] AjaxHandler initialized
+[20-Dec-2024 18:31:12 UTC] AjaxHandler initialized
+[20-Dec-2024 18:33:13 UTC] AjaxHandler initialized
+[20-Dec-2024 18:33:13 UTC] AjaxHandler initialized
+[20-Dec-2024 18:35:14 UTC] AjaxHandler initialized
+[20-Dec-2024 18:35:14 UTC] AjaxHandler initialized
+[20-Dec-2024 18:37:15 UTC] AjaxHandler initialized
+[20-Dec-2024 18:37:15 UTC] AjaxHandler initialized
+[20-Dec-2024 18:39:16 UTC] AjaxHandler initialized
+[20-Dec-2024 18:39:16 UTC] AjaxHandler initialized
+[20-Dec-2024 18:58:30 UTC] AjaxHandler initialized
+[20-Dec-2024 18:58:34 UTC] AjaxHandler initialized
+[20-Dec-2024 18:58:47 UTC] AjaxHandler initialized
+[20-Dec-2024 19:04:08 UTC] AjaxHandler initialized
+[20-Dec-2024 19:04:08 UTC] AjaxHandler initialized
+[20-Dec-2024 19:04:10 UTC] AjaxHandler initialized
+[20-Dec-2024 19:04:16 UTC] AjaxHandler initialized
+[20-Dec-2024 19:04:34 UTC] AjaxHandler initialized
+[20-Dec-2024 19:04:39 UTC] AjaxHandler initialized
+[20-Dec-2024 19:06:06 UTC] AjaxHandler initialized
+[20-Dec-2024 19:06:10 UTC] AjaxHandler initialized
+[20-Dec-2024 19:06:10 UTC] AjaxHandler initialized
+[20-Dec-2024 19:06:21 UTC] AjaxHandler initialized
+[20-Dec-2024 19:06:41 UTC] AjaxHandler initialized
+[20-Dec-2024 19:08:10 UTC] AjaxHandler initialized
+[20-Dec-2024 19:08:41 UTC] AjaxHandler initialized
+[20-Dec-2024 19:10:11 UTC] AjaxHandler initialized
+[20-Dec-2024 19:10:42 UTC] AjaxHandler initialized
+[20-Dec-2024 19:12:12 UTC] AjaxHandler initialized
+[20-Dec-2024 19:12:43 UTC] AjaxHandler initialized
+[20-Dec-2024 21:09:15 UTC] AjaxHandler initialized
+[20-Dec-2024 21:13:10 UTC] AjaxHandler initialized
+[20-Dec-2024 21:13:10 UTC] AjaxHandler initialized
+[20-Dec-2024 21:13:13 UTC] AjaxHandler initialized
+[20-Dec-2024 21:13:17 UTC] AjaxHandler initialized
+[20-Dec-2024 21:13:20 UTC] AjaxHandler initialized
+[20-Dec-2024 21:13:49 UTC] AjaxHandler initialized
+[20-Dec-2024 21:14:14 UTC] AjaxHandler initialized
+[20-Dec-2024 21:14:16 UTC] AjaxHandler initialized
+[20-Dec-2024 21:15:10 UTC] AjaxHandler initialized
+[20-Dec-2024 21:15:10 UTC] AjaxHandler initialized
+[20-Dec-2024 21:15:20 UTC] AjaxHandler initialized
+[20-Dec-2024 21:17:17 UTC] AjaxHandler initialized
+[20-Dec-2024 21:17:17 UTC] AjaxHandler initialized
+[20-Dec-2024 21:17:24 UTC] AjaxHandler initialized
+[20-Dec-2024 21:19:13 UTC] AjaxHandler initialized
+[20-Dec-2024 21:19:13 UTC] AjaxHandler initialized
+[20-Dec-2024 21:19:23 UTC] AjaxHandler initialized
+[20-Dec-2024 21:21:14 UTC] AjaxHandler initialized
+[20-Dec-2024 21:21:14 UTC] AjaxHandler initialized
+[20-Dec-2024 21:21:25 UTC] AjaxHandler initialized
+[20-Dec-2024 21:23:26 UTC] AjaxHandler initialized
+[20-Dec-2024 21:25:27 UTC] AjaxHandler initialized
+[20-Dec-2024 21:27:28 UTC] AjaxHandler initialized
+[20-Dec-2024 21:29:29 UTC] AjaxHandler initialized
+[20-Dec-2024 21:31:30 UTC] AjaxHandler initialized
+[20-Dec-2024 21:33:31 UTC] AjaxHandler initialized
+[20-Dec-2024 21:35:32 UTC] AjaxHandler initialized
+[20-Dec-2024 21:37:33 UTC] AjaxHandler initialized
+[20-Dec-2024 21:39:33 UTC] AjaxHandler initialized
+[20-Dec-2024 21:41:34 UTC] AjaxHandler initialized
+[20-Dec-2024 21:43:36 UTC] AjaxHandler initialized
+[20-Dec-2024 21:45:37 UTC] AjaxHandler initialized
+[20-Dec-2024 21:47:38 UTC] AjaxHandler initialized
+[20-Dec-2024 21:49:39 UTC] AjaxHandler initialized
+[20-Dec-2024 21:51:40 UTC] AjaxHandler initialized
+[20-Dec-2024 21:51:48 UTC] AjaxHandler initialized
+[20-Dec-2024 21:53:42 UTC] AjaxHandler initialized
+[20-Dec-2024 21:55:42 UTC] AjaxHandler initialized
+[20-Dec-2024 21:57:43 UTC] AjaxHandler initialized
+[20-Dec-2024 21:59:44 UTC] AjaxHandler initialized
+[20-Dec-2024 22:01:45 UTC] AjaxHandler initialized
+[20-Dec-2024 22:03:46 UTC] AjaxHandler initialized
+[20-Dec-2024 22:05:46 UTC] AjaxHandler initialized
+[20-Dec-2024 22:07:47 UTC] AjaxHandler initialized
+[20-Dec-2024 22:09:49 UTC] AjaxHandler initialized
+[20-Dec-2024 22:11:51 UTC] AjaxHandler initialized
+[20-Dec-2024 22:13:52 UTC] AjaxHandler initialized
+[20-Dec-2024 22:15:52 UTC] AjaxHandler initialized
+[20-Dec-2024 22:17:54 UTC] AjaxHandler initialized
+[20-Dec-2024 22:19:55 UTC] AjaxHandler initialized
+[20-Dec-2024 22:21:55 UTC] AjaxHandler initialized
+[20-Dec-2024 22:23:56 UTC] AjaxHandler initialized
+[20-Dec-2024 22:25:57 UTC] AjaxHandler initialized
+[20-Dec-2024 22:27:58 UTC] AjaxHandler initialized
+[20-Dec-2024 22:29:59 UTC] AjaxHandler initialized
+[20-Dec-2024 22:32:00 UTC] AjaxHandler initialized
+[20-Dec-2024 22:34:01 UTC] AjaxHandler initialized
+[20-Dec-2024 22:36:02 UTC] AjaxHandler initialized
+[20-Dec-2024 22:38:03 UTC] AjaxHandler initialized
+[20-Dec-2024 22:40:04 UTC] AjaxHandler initialized
+[20-Dec-2024 22:42:05 UTC] AjaxHandler initialized
+[20-Dec-2024 22:44:06 UTC] AjaxHandler initialized
+[20-Dec-2024 22:46:07 UTC] AjaxHandler initialized
+[20-Dec-2024 22:48:08 UTC] AjaxHandler initialized
+[20-Dec-2024 22:50:09 UTC] AjaxHandler initialized
+[20-Dec-2024 22:52:11 UTC] AjaxHandler initialized
+[20-Dec-2024 22:54:11 UTC] AjaxHandler initialized
+[20-Dec-2024 22:56:13 UTC] AjaxHandler initialized
+[20-Dec-2024 22:58:12 UTC] AjaxHandler initialized
+[20-Dec-2024 23:00:14 UTC] AjaxHandler initialized
+[20-Dec-2024 23:02:16 UTC] AjaxHandler initialized
+[20-Dec-2024 23:04:15 UTC] AjaxHandler initialized
+[20-Dec-2024 23:06:15 UTC] AjaxHandler initialized
+[20-Dec-2024 23:08:16 UTC] AjaxHandler initialized
+[20-Dec-2024 23:10:17 UTC] AjaxHandler initialized
+[20-Dec-2024 23:11:17 UTC] AjaxHandler initialized
+[20-Dec-2024 23:11:17 UTC] AjaxHandler initialized
+[20-Dec-2024 23:12:18 UTC] AjaxHandler initialized
+[20-Dec-2024 23:13:19 UTC] AjaxHandler initialized
+[20-Dec-2024 23:15:20 UTC] AjaxHandler initialized
+[20-Dec-2024 23:17:21 UTC] AjaxHandler initialized
+[20-Dec-2024 23:19:22 UTC] AjaxHandler initialized
+[20-Dec-2024 23:21:23 UTC] AjaxHandler initialized
+[21-Dec-2024 12:20:25 UTC] AjaxHandler initialized
+[21-Dec-2024 12:20:47 UTC] AjaxHandler initialized
+[21-Dec-2024 12:21:47 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:48 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:49 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:54 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:54 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:57 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:57 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:58 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:59 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:59 UTC] AjaxHandler initialized
+[21-Dec-2024 12:22:59 UTC] AjaxHandler initialized
+[21-Dec-2024 12:23:37 UTC] AjaxHandler initialized
+[21-Dec-2024 12:23:37 UTC] AjaxHandler initialized
+[21-Dec-2024 12:24:07 UTC] AjaxHandler initialized
+[21-Dec-2024 12:24:07 UTC] AjaxHandler initialized
+[21-Dec-2024 12:24:49 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:22 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:23 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:31 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:36 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:41 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:46 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:46 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:49 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:49 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:49 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:49 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:50 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:51 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:51 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:51 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:51 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:53 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:53 UTC] AjaxHandler initialized
+[21-Dec-2024 12:25:56 UTC] AjaxHandler initialized
+[21-Dec-2024 12:26:19 UTC] AjaxHandler initialized
+[21-Dec-2024 12:26:20 UTC] AjaxHandler initialized
+[21-Dec-2024 12:27:51 UTC] AjaxHandler initialized
+[21-Dec-2024 12:27:54 UTC] AjaxHandler initialized
+[21-Dec-2024 12:27:54 UTC] AjaxHandler initialized
+[21-Dec-2024 12:28:20 UTC] AjaxHandler initialized
+[21-Dec-2024 12:28:20 UTC] AjaxHandler initialized
+[21-Dec-2024 12:28:52 UTC] AjaxHandler initialized
+[21-Dec-2024 12:28:52 UTC] AjaxHandler initialized
+[21-Dec-2024 12:28:56 UTC] AjaxHandler initialized
+[21-Dec-2024 12:29:06 UTC] AjaxHandler initialized
+[21-Dec-2024 12:29:23 UTC] AjaxHandler initialized
+[21-Dec-2024 12:29:52 UTC] AjaxHandler initialized
+[21-Dec-2024 12:29:55 UTC] AjaxHandler initialized
+[21-Dec-2024 12:29:55 UTC] AjaxHandler initialized
+[21-Dec-2024 12:30:54 UTC] AjaxHandler initialized
+[21-Dec-2024 12:31:25 UTC] AjaxHandler initialized
+[21-Dec-2024 12:31:54 UTC] AjaxHandler initialized
+[21-Dec-2024 12:31:56 UTC] AjaxHandler initialized
+[21-Dec-2024 12:31:56 UTC] AjaxHandler initialized
+[21-Dec-2024 12:32:46 UTC] AjaxHandler initialized
+[21-Dec-2024 12:32:49 UTC] AjaxHandler initialized
+[21-Dec-2024 12:32:54 UTC] AjaxHandler initialized
+[21-Dec-2024 12:32:57 UTC] AjaxHandler initialized
+[21-Dec-2024 12:33:25 UTC] AjaxHandler initialized
+[21-Dec-2024 12:33:54 UTC] AjaxHandler initialized
+[21-Dec-2024 12:33:57 UTC] AjaxHandler initialized
+[21-Dec-2024 12:33:58 UTC] AjaxHandler initialized
+[21-Dec-2024 12:34:56 UTC] AjaxHandler initialized
+[21-Dec-2024 12:35:26 UTC] AjaxHandler initialized
+[21-Dec-2024 12:35:56 UTC] PHP Parse error:  syntax error, unexpected token "$", expecting variable in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 61
+[21-Dec-2024 12:35:58 UTC] PHP Parse error:  syntax error, unexpected token "$", expecting variable in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 61
+[21-Dec-2024 12:35:58 UTC] PHP Parse error:  syntax error, unexpected token "$", expecting variable in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 61
+[21-Dec-2024 12:36:57 UTC] PHP Parse error:  syntax error, unexpected token "$", expecting variable in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 61
+[21-Dec-2024 12:37:28 UTC] PHP Parse error:  syntax error, unexpected token "$", expecting variable in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 61
+[21-Dec-2024 12:38:58 UTC] PHP Parse error:  syntax error, unexpected token "$", expecting variable in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 61
+[21-Dec-2024 12:58:03 UTC] AjaxHandler initialized
+[21-Dec-2024 12:58:07 UTC] AjaxHandler initialized
+[21-Dec-2024 12:58:14 UTC] AjaxHandler initialized
+[21-Dec-2024 12:59:50 UTC] AjaxHandler initialized
+[21-Dec-2024 12:59:50 UTC] AjaxHandler initialized
+[21-Dec-2024 13:01:51 UTC] AjaxHandler initialized
+[21-Dec-2024 13:01:51 UTC] AjaxHandler initialized
+[21-Dec-2024 13:03:52 UTC] AjaxHandler initialized
+[21-Dec-2024 13:03:52 UTC] AjaxHandler initialized
+[21-Dec-2024 13:05:53 UTC] AjaxHandler initialized
+[21-Dec-2024 13:05:53 UTC] AjaxHandler initialized
+[21-Dec-2024 13:07:54 UTC] AjaxHandler initialized
+[21-Dec-2024 13:07:54 UTC] AjaxHandler initialized
+[21-Dec-2024 13:09:55 UTC] AjaxHandler initialized
+[21-Dec-2024 13:09:55 UTC] AjaxHandler initialized
+[21-Dec-2024 13:11:56 UTC] AjaxHandler initialized
+[21-Dec-2024 13:11:56 UTC] AjaxHandler initialized
+[21-Dec-2024 13:13:57 UTC] AjaxHandler initialized
+[21-Dec-2024 13:13:57 UTC] AjaxHandler initialized
+[21-Dec-2024 13:15:58 UTC] AjaxHandler initialized
+[21-Dec-2024 13:15:58 UTC] AjaxHandler initialized
+[21-Dec-2024 13:17:59 UTC] AjaxHandler initialized
+[21-Dec-2024 13:17:59 UTC] AjaxHandler initialized
+[21-Dec-2024 13:20:00 UTC] AjaxHandler initialized
+[21-Dec-2024 13:20:00 UTC] AjaxHandler initialized
+[21-Dec-2024 13:22:01 UTC] AjaxHandler initialized
+[21-Dec-2024 13:22:01 UTC] AjaxHandler initialized
+[21-Dec-2024 13:24:02 UTC] AjaxHandler initialized
+[21-Dec-2024 13:24:02 UTC] AjaxHandler initialized
+[21-Dec-2024 13:26:03 UTC] AjaxHandler initialized
+[21-Dec-2024 13:26:03 UTC] AjaxHandler initialized
+[21-Dec-2024 13:28:04 UTC] AjaxHandler initialized
+[21-Dec-2024 13:28:04 UTC] AjaxHandler initialized
+[21-Dec-2024 13:30:05 UTC] AjaxHandler initialized
+[21-Dec-2024 13:30:05 UTC] AjaxHandler initialized
+[21-Dec-2024 13:32:06 UTC] AjaxHandler initialized
+[21-Dec-2024 13:32:06 UTC] AjaxHandler initialized
+[21-Dec-2024 13:34:07 UTC] AjaxHandler initialized
+[21-Dec-2024 13:34:07 UTC] AjaxHandler initialized
+[21-Dec-2024 13:36:08 UTC] AjaxHandler initialized
+[21-Dec-2024 13:36:08 UTC] AjaxHandler initialized
+[21-Dec-2024 13:38:09 UTC] AjaxHandler initialized
+[21-Dec-2024 13:38:09 UTC] AjaxHandler initialized
+[21-Dec-2024 13:40:10 UTC] AjaxHandler initialized
+[21-Dec-2024 13:40:10 UTC] AjaxHandler initialized
+[21-Dec-2024 13:42:11 UTC] AjaxHandler initialized
+[21-Dec-2024 13:42:11 UTC] AjaxHandler initialized
+[21-Dec-2024 13:44:12 UTC] AjaxHandler initialized
+[21-Dec-2024 13:44:12 UTC] AjaxHandler initialized
+[21-Dec-2024 13:46:13 UTC] AjaxHandler initialized
+[21-Dec-2024 13:46:13 UTC] AjaxHandler initialized
+[21-Dec-2024 13:48:14 UTC] AjaxHandler initialized
+[21-Dec-2024 13:48:14 UTC] AjaxHandler initialized
+[21-Dec-2024 13:50:15 UTC] AjaxHandler initialized
+[21-Dec-2024 13:50:15 UTC] AjaxHandler initialized
+[21-Dec-2024 13:52:16 UTC] AjaxHandler initialized
+[21-Dec-2024 13:52:16 UTC] AjaxHandler initialized
+[21-Dec-2024 13:54:17 UTC] AjaxHandler initialized
+[21-Dec-2024 13:54:17 UTC] AjaxHandler initialized
+[21-Dec-2024 13:56:18 UTC] AjaxHandler initialized
+[21-Dec-2024 13:56:18 UTC] AjaxHandler initialized
+[21-Dec-2024 13:58:19 UTC] AjaxHandler initialized
+[21-Dec-2024 13:58:19 UTC] AjaxHandler initialized
+[21-Dec-2024 14:00:20 UTC] AjaxHandler initialized
+[21-Dec-2024 14:00:20 UTC] AjaxHandler initialized
+[21-Dec-2024 14:02:21 UTC] AjaxHandler initialized
+[21-Dec-2024 14:02:21 UTC] AjaxHandler initialized
+[21-Dec-2024 14:04:22 UTC] AjaxHandler initialized
+[21-Dec-2024 14:04:22 UTC] AjaxHandler initialized
+[21-Dec-2024 14:06:23 UTC] AjaxHandler initialized
+[21-Dec-2024 14:06:23 UTC] AjaxHandler initialized
+[21-Dec-2024 14:08:24 UTC] AjaxHandler initialized
+[21-Dec-2024 14:08:24 UTC] AjaxHandler initialized
+[21-Dec-2024 14:10:25 UTC] AjaxHandler initialized
+[21-Dec-2024 14:10:25 UTC] AjaxHandler initialized
+[21-Dec-2024 14:12:26 UTC] AjaxHandler initialized
+[21-Dec-2024 14:12:26 UTC] AjaxHandler initialized
+[21-Dec-2024 14:14:27 UTC] AjaxHandler initialized
+[21-Dec-2024 14:14:27 UTC] AjaxHandler initialized
+[21-Dec-2024 14:16:28 UTC] AjaxHandler initialized
+[21-Dec-2024 14:16:28 UTC] AjaxHandler initialized
+[21-Dec-2024 14:18:29 UTC] AjaxHandler initialized
+[21-Dec-2024 14:18:29 UTC] AjaxHandler initialized
+[21-Dec-2024 14:20:30 UTC] AjaxHandler initialized
+[21-Dec-2024 14:20:30 UTC] AjaxHandler initialized
+[21-Dec-2024 14:22:31 UTC] AjaxHandler initialized
+[21-Dec-2024 14:22:31 UTC] AjaxHandler initialized
+[21-Dec-2024 14:24:32 UTC] AjaxHandler initialized
+[21-Dec-2024 14:24:32 UTC] AjaxHandler initialized
+[21-Dec-2024 14:26:33 UTC] AjaxHandler initialized
+[21-Dec-2024 14:26:33 UTC] AjaxHandler initialized
+[21-Dec-2024 14:28:34 UTC] AjaxHandler initialized
+[21-Dec-2024 14:28:34 UTC] AjaxHandler initialized
+[21-Dec-2024 14:30:35 UTC] AjaxHandler initialized
+[21-Dec-2024 14:30:35 UTC] AjaxHandler initialized
+[21-Dec-2024 14:32:36 UTC] AjaxHandler initialized
+[21-Dec-2024 14:32:36 UTC] AjaxHandler initialized
+[21-Dec-2024 14:34:37 UTC] AjaxHandler initialized
+[21-Dec-2024 14:34:37 UTC] AjaxHandler initialized
+[21-Dec-2024 14:36:38 UTC] AjaxHandler initialized
+[21-Dec-2024 14:36:38 UTC] AjaxHandler initialized
+[21-Dec-2024 14:38:39 UTC] AjaxHandler initialized
+[21-Dec-2024 14:38:39 UTC] AjaxHandler initialized
+[21-Dec-2024 14:40:40 UTC] AjaxHandler initialized
+[21-Dec-2024 14:40:40 UTC] AjaxHandler initialized
+[21-Dec-2024 14:42:41 UTC] AjaxHandler initialized
+[21-Dec-2024 14:42:41 UTC] AjaxHandler initialized
+[21-Dec-2024 14:44:42 UTC] AjaxHandler initialized
+[21-Dec-2024 14:44:42 UTC] AjaxHandler initialized
+[21-Dec-2024 14:46:43 UTC] AjaxHandler initialized
+[21-Dec-2024 14:46:43 UTC] AjaxHandler initialized
+[21-Dec-2024 14:48:44 UTC] AjaxHandler initialized
+[21-Dec-2024 14:48:44 UTC] AjaxHandler initialized
+[21-Dec-2024 14:50:45 UTC] AjaxHandler initialized
+[21-Dec-2024 14:50:45 UTC] AjaxHandler initialized
+[21-Dec-2024 14:52:46 UTC] AjaxHandler initialized
+[21-Dec-2024 14:52:46 UTC] AjaxHandler initialized
+[21-Dec-2024 14:54:25 UTC] AjaxHandler initialized
+[21-Dec-2024 14:54:47 UTC] AjaxHandler initialized
+[21-Dec-2024 14:54:47 UTC] AjaxHandler initialized
+[21-Dec-2024 14:56:48 UTC] AjaxHandler initialized
+[21-Dec-2024 14:56:48 UTC] AjaxHandler initialized
+[21-Dec-2024 14:58:49 UTC] AjaxHandler initialized
+[21-Dec-2024 14:58:49 UTC] AjaxHandler initialized
+[21-Dec-2024 15:00:50 UTC] AjaxHandler initialized
+[21-Dec-2024 15:00:50 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:22 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:35 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:41 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:48 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:51 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:52 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:52 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:54 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:54 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:57 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:57 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:58 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:58 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:58 UTC] AjaxHandler initialized
+[21-Dec-2024 15:02:58 UTC] AjaxHandler initialized
+[21-Dec-2024 15:03:00 UTC] AjaxHandler initialized
+[21-Dec-2024 15:03:02 UTC] AjaxHandler initialized
+[21-Dec-2024 15:03:13 UTC] AjaxHandler initialized
+[21-Dec-2024 15:03:28 UTC] AjaxHandler initialized
+[21-Dec-2024 15:03:29 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 19
+[21-Dec-2024 15:03:29 UTC] Sanitized Values - Event Slug: , First Name: Val, Last Name: Che, Email: Valentin.Chetian@gmail.com, Phone: 0897259871
+[21-Dec-2024 15:03:29 UTC] Required fields missing
+[21-Dec-2024 15:03:30 UTC] AjaxHandler initialized
+[21-Dec-2024 15:03:32 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 19
+[21-Dec-2024 15:03:32 UTC] Sanitized Values - Event Slug: , First Name: Val, Last Name: Che, Email: Valentin.Chetian@gmail.com, Phone: 0897259871
+[21-Dec-2024 15:03:32 UTC] Required fields missing
+[21-Dec-2024 15:04:52 UTC] AjaxHandler initialized
+[21-Dec-2024 15:04:52 UTC] AjaxHandler initialized
+[21-Dec-2024 15:06:53 UTC] AjaxHandler initialized
+[21-Dec-2024 15:06:53 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:05 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:22 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:26 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:33 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:36 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:39 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:39 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:39 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:42 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:42 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:42 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:43 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:43 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:44 UTC] AjaxHandler initialized
+[21-Dec-2024 15:07:46 UTC] AjaxHandler initialized
+[21-Dec-2024 15:08:48 UTC] AjaxHandler initialized
+[21-Dec-2024 15:08:52 UTC] AjaxHandler initialized
+[21-Dec-2024 15:08:52 UTC] AjaxHandler initialized
+[21-Dec-2024 15:08:53 UTC] AjaxHandler initialized
+[21-Dec-2024 15:08:54 UTC] AjaxHandler initialized
+[21-Dec-2024 15:08:55 UTC] AjaxHandler initialized
+[21-Dec-2024 15:08:57 UTC] AjaxHandler initialized
+[21-Dec-2024 15:10:04 UTC] AjaxHandler initialized
+[21-Dec-2024 15:10:41 UTC] AjaxHandler initialized
+[21-Dec-2024 15:10:41 UTC] AjaxHandler initialized
+[21-Dec-2024 15:10:43 UTC] AjaxHandler initialized
+[21-Dec-2024 15:10:48 UTC] AjaxHandler initialized
+[21-Dec-2024 15:11:05 UTC] AjaxHandler initialized
+[21-Dec-2024 15:11:07 UTC] AjaxHandler initialized
+[21-Dec-2024 15:11:14 UTC] AjaxHandler initialized
+[21-Dec-2024 15:11:32 UTC] AjaxHandler initialized
+[21-Dec-2024 15:12:53 UTC] AjaxHandler initialized
+[21-Dec-2024 15:13:06 UTC] AjaxHandler initialized
+[21-Dec-2024 15:13:09 UTC] AjaxHandler initialized
+[21-Dec-2024 15:13:17 UTC] AjaxHandler initialized
+[21-Dec-2024 15:13:31 UTC] AjaxHandler initialized
+[21-Dec-2024 15:13:37 UTC] AjaxHandler initialized
+[21-Dec-2024 15:13:42 UTC] AjaxHandler initialized
+[21-Dec-2024 15:14:23 UTC] AjaxHandler initialized
+[21-Dec-2024 15:14:36 UTC] AjaxHandler initialized
+[21-Dec-2024 15:15:35 UTC] AjaxHandler initialized
+[21-Dec-2024 15:15:36 UTC] AjaxHandler initialized
+[21-Dec-2024 15:15:46 UTC] AjaxHandler initialized
+[21-Dec-2024 15:16:03 UTC] AjaxHandler initialized
+[21-Dec-2024 15:16:08 UTC] AjaxHandler initialized
+[21-Dec-2024 15:16:11 UTC] AjaxHandler initialized
+[21-Dec-2024 15:16:16 UTC] AjaxHandler initialized
+[21-Dec-2024 15:16:29 UTC] AjaxHandler initialized
+[21-Dec-2024 15:16:31 UTC] AjaxHandler initialized
+[21-Dec-2024 15:16:34 UTC] AjaxHandler initialized
+[21-Dec-2024 15:17:35 UTC] AjaxHandler initialized
+[21-Dec-2024 15:17:39 UTC] AjaxHandler initialized
+[21-Dec-2024 15:17:42 UTC] AjaxHandler initialized
+[21-Dec-2024 15:17:43 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:02 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:04 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:06 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:11 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:11 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:15 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:15 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:23 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:26 UTC] AjaxHandler initialized
+[21-Dec-2024 15:18:59 UTC] AjaxHandler initialized
+[21-Dec-2024 15:19:01 UTC] AjaxHandler initialized
+[21-Dec-2024 15:19:04 UTC] AjaxHandler initialized
+[21-Dec-2024 15:19:08 UTC] AjaxHandler initialized
+[21-Dec-2024 15:19:22 UTC] AjaxHandler initialized
+[21-Dec-2024 15:20:04 UTC] AjaxHandler initialized
+[21-Dec-2024 15:20:08 UTC] AjaxHandler initialized
+[21-Dec-2024 15:20:26 UTC] AjaxHandler initialized
+[21-Dec-2024 15:21:26 UTC] AjaxHandler initialized
+[21-Dec-2024 15:22:06 UTC] AjaxHandler initialized
+[21-Dec-2024 15:22:10 UTC] AjaxHandler initialized
+[21-Dec-2024 15:22:26 UTC] AjaxHandler initialized
+[21-Dec-2024 15:23:27 UTC] AjaxHandler initialized
+[21-Dec-2024 15:24:07 UTC] AjaxHandler initialized
+[21-Dec-2024 15:24:11 UTC] AjaxHandler initialized
+[21-Dec-2024 15:25:28 UTC] AjaxHandler initialized
+[21-Dec-2024 15:26:07 UTC] AjaxHandler initialized
+[21-Dec-2024 15:26:08 UTC] AjaxHandler initialized
+[21-Dec-2024 15:26:29 UTC] AjaxHandler initialized
+[21-Dec-2024 15:27:07 UTC] AjaxHandler initialized
+[21-Dec-2024 15:28:21 UTC] AjaxHandler initialized
+[21-Dec-2024 15:28:30 UTC] AjaxHandler initialized
+[21-Dec-2024 15:29:31 UTC] AjaxHandler initialized
+[21-Dec-2024 15:30:31 UTC] AjaxHandler initialized
+[21-Dec-2024 15:30:31 UTC] AjaxHandler initialized
+[21-Dec-2024 15:32:32 UTC] AjaxHandler initialized
+[21-Dec-2024 15:32:33 UTC] AjaxHandler initialized
+[21-Dec-2024 15:34:33 UTC] AjaxHandler initialized
+[21-Dec-2024 15:34:34 UTC] AjaxHandler initialized
+[21-Dec-2024 15:36:35 UTC] AjaxHandler initialized
+[21-Dec-2024 15:38:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:08:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:08:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:08:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:08:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:03 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:03 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:03 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:05 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[22-Dec-2024 12:09:08 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:08 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:09 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:09 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:09 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:10 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[22-Dec-2024 12:09:12 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:12 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:15 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:15 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:16 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:16 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:17 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:17 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:24 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[22-Dec-2024 12:09:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:30 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[22-Dec-2024 12:09:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:09:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:01 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:01 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:01 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:06 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:14 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:16 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:19 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:19 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:32 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:32 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:11:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:02 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:02 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:02 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:07 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:15 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:17 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:13:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:02 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:02 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:02 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:08 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:16 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:18 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:32 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:15:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:04 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:04 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:04 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:09 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:17 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:19 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:17:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:05 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:05 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:05 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:10 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:18 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:32 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:19:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:06 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:06 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:06 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:11 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:19 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:21:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:07 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:07 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:07 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:12 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:27 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:27 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:23:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:08 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:08 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:08 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:13 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:25:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:09 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:09 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:09 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:14 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:27 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:27 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:27:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:10 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:10 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:10 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:15 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:44 UTC] AjaxHandler initialized
+[22-Dec-2024 12:29:44 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:11 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:11 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:11 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:16 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:31:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:12 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:12 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:12 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:17 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:27 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:32 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:32 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:43 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:43 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:33:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:13 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:13 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:13 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:18 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:47 UTC] AjaxHandler initialized
+[22-Dec-2024 12:35:47 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:14 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:14 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:14 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:19 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:27 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:43 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:46 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:46 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:37:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:15 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:15 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:15 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:44 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:46 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:46 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:39:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:16 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:16 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:16 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:43 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:50 UTC] AjaxHandler initialized
+[22-Dec-2024 12:41:50 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:17 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:17 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:17 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:32 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:44 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:46 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:50 UTC] AjaxHandler initialized
+[22-Dec-2024 12:43:50 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:18 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:18 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:18 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:31 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:47 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:49 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:49 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:52 UTC] AjaxHandler initialized
+[22-Dec-2024 12:45:52 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:19 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:19 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:19 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:32 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:46 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:50 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:50 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:52 UTC] AjaxHandler initialized
+[22-Dec-2024 12:47:52 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:20 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:33 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:47 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:49 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:51 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:51 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:53 UTC] AjaxHandler initialized
+[22-Dec-2024 12:49:53 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:26 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:34 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:48 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:50 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:52 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:52 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:55 UTC] AjaxHandler initialized
+[22-Dec-2024 12:51:55 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:21 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:27 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:35 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:49 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:51 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:54 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:54 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:55 UTC] AjaxHandler initialized
+[22-Dec-2024 12:53:55 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:22 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:28 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:36 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:41 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:43 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:43 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:50 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:52 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:55 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:55 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:56 UTC] AjaxHandler initialized
+[22-Dec-2024 12:55:56 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:23 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:29 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:37 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:39 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:42 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:44 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:44 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:51 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:53 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:56 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:56 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:58 UTC] AjaxHandler initialized
+[22-Dec-2024 12:57:58 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:24 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:25 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:30 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:38 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:40 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:43 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:43 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:45 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:52 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:54 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:56 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:56 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:59 UTC] AjaxHandler initialized
+[22-Dec-2024 12:59:59 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:25 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:26 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:26 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:31 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:39 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:41 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:45 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:45 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:47 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:47 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:53 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:55 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:57 UTC] AjaxHandler initialized
+[22-Dec-2024 13:01:57 UTC] AjaxHandler initialized
+[22-Dec-2024 13:02:00 UTC] AjaxHandler initialized
+[22-Dec-2024 13:02:00 UTC] AjaxHandler initialized
+[22-Dec-2024 16:25:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:25:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:25:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:25:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:25:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:25:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:25:28 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_options` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-80343cb91348e8912a4e0c8bdeaeec83' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[22-Dec-2024 16:25:28 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_options` WHERE `option_name` = '_site_transient_wp_theme_files_patterns-80343cb91348e8912a4e0c8bdeaeec83' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, _register_theme_block_patterns, WP_Theme->get_block_patterns, WP_Theme->get_pattern_cache, get_site_transient, delete_site_option, delete_network_option, delete_option
+[22-Dec-2024 16:27:13 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:13 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:13 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:13 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:13 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:14 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:27:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:14 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:14 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:14 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:14 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:14 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:29:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:15 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:31:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:16 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:33:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:17 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:35:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:18 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:37:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:19 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:39:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:20 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:41:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:21 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:43:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:22 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:45:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:23 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:47:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:24 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:25 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:26 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:27 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:28 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:28 UTC] AjaxHandler initialized
+[22-Dec-2024 16:49:29 UTC] AjaxHandler initialized
+[02-Jan-2025 11:25:10 UTC] AjaxHandler initialized
+[02-Jan-2025 11:25:25 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 11:25:27 UTC] AjaxHandler initialized
+[02-Jan-2025 11:28:31 UTC] AjaxHandler initialized
+[02-Jan-2025 11:28:39 UTC] AjaxHandler initialized
+[02-Jan-2025 11:28:49 UTC] AjaxHandler initialized
+[02-Jan-2025 11:28:52 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:04 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:04 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:06 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:06 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:06 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:06 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:08 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:08 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:08 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:08 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:10 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:10 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:12 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:22 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:32 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:42 UTC] AjaxHandler initialized
+[02-Jan-2025 11:29:52 UTC] AjaxHandler initialized
+[02-Jan-2025 11:30:02 UTC] AjaxHandler initialized
+[02-Jan-2025 11:30:12 UTC] AjaxHandler initialized
+[02-Jan-2025 11:30:22 UTC] AjaxHandler initialized
+[02-Jan-2025 11:30:32 UTC] AjaxHandler initialized
+[02-Jan-2025 11:30:42 UTC] AjaxHandler initialized
+[02-Jan-2025 11:30:52 UTC] AjaxHandler initialized
+[02-Jan-2025 11:31:02 UTC] AjaxHandler initialized
+[02-Jan-2025 11:31:12 UTC] AjaxHandler initialized
+[02-Jan-2025 11:31:22 UTC] AjaxHandler initialized
+[02-Jan-2025 11:31:32 UTC] AjaxHandler initialized
+[02-Jan-2025 11:31:42 UTC] AjaxHandler initialized
+[02-Jan-2025 11:31:52 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:02 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:13 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:15 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:18 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 11:32:20 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:20 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:21 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 11:32:23 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:23 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:24 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:25 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:25 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:25 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:26 UTC] AjaxHandler initialized
+[02-Jan-2025 11:32:54 UTC] AjaxHandler initialized
+[02-Jan-2025 11:33:07 UTC] AjaxHandler initialized
+[02-Jan-2025 11:33:15 UTC] AjaxHandler initialized
+[02-Jan-2025 11:33:17 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 11:33:17 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 11:33:20 UTC] AjaxHandler initialized
+[02-Jan-2025 11:33:22 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 11:33:25 UTC] AjaxHandler initialized
+[02-Jan-2025 11:33:35 UTC] AjaxHandler initialized
+[02-Jan-2025 11:33:36 UTC] AjaxHandler initialized
+[02-Jan-2025 11:33:37 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 19
+[02-Jan-2025 11:33:37 UTC] Sanitized Values - Event Slug: , First Name: Val, Last Name: Che, Email: Valentin.Chetian@gmail.com, Phone: 0897259871
+[02-Jan-2025 11:33:37 UTC] Required fields missing
+[02-Jan-2025 11:33:37 UTC] AjaxHandler initialized
+[02-Jan-2025 11:33:38 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 19
+[02-Jan-2025 11:33:38 UTC] Sanitized Values - Event Slug: , First Name: Val, Last Name: Che, Email: Valentin.Chetian@gmail.com, Phone: 0897259871
+[02-Jan-2025 11:33:38 UTC] Required fields missing
+[02-Jan-2025 11:35:27 UTC] AjaxHandler initialized
+[02-Jan-2025 11:35:38 UTC] AjaxHandler initialized
+[02-Jan-2025 11:37:27 UTC] AjaxHandler initialized
+[02-Jan-2025 11:37:39 UTC] AjaxHandler initialized
+[02-Jan-2025 11:39:28 UTC] AjaxHandler initialized
+[02-Jan-2025 11:39:40 UTC] AjaxHandler initialized
+[02-Jan-2025 11:41:30 UTC] AjaxHandler initialized
+[02-Jan-2025 11:41:41 UTC] AjaxHandler initialized
+[02-Jan-2025 11:43:31 UTC] AjaxHandler initialized
+[02-Jan-2025 11:43:43 UTC] AjaxHandler initialized
+[02-Jan-2025 23:35:44 UTC] AjaxHandler initialized
+[02-Jan-2025 23:35:44 UTC] AjaxHandler initialized
+[02-Jan-2025 23:35:58 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 23:35:58 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 23:36:02 UTC] AjaxHandler initialized
+[02-Jan-2025 23:36:03 UTC] AjaxHandler initialized
+[02-Jan-2025 23:36:08 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[02-Jan-2025 23:36:11 UTC] AjaxHandler initialized
+[02-Jan-2025 23:36:11 UTC] AjaxHandler initialized
+[02-Jan-2025 23:36:12 UTC] AjaxHandler initialized
+[02-Jan-2025 23:36:12 UTC] AjaxHandler initialized
+[02-Jan-2025 23:36:13 UTC] AjaxHandler initialized
+[02-Jan-2025 23:36:14 UTC] AjaxHandler initialized
+[02-Jan-2025 23:36:18 UTC] AjaxHandler initialized
+[02-Jan-2025 23:38:11 UTC] AjaxHandler initialized
+[02-Jan-2025 23:38:13 UTC] AjaxHandler initialized
+[02-Jan-2025 23:40:12 UTC] AjaxHandler initialized
+[02-Jan-2025 23:40:14 UTC] AjaxHandler initialized
+[02-Jan-2025 23:42:13 UTC] AjaxHandler initialized
+[02-Jan-2025 23:42:15 UTC] AjaxHandler initialized
+[02-Jan-2025 23:44:14 UTC] AjaxHandler initialized
+[02-Jan-2025 23:44:16 UTC] AjaxHandler initialized
+[02-Jan-2025 23:46:15 UTC] AjaxHandler initialized
+[02-Jan-2025 23:46:17 UTC] AjaxHandler initialized
+[02-Jan-2025 23:48:16 UTC] AjaxHandler initialized
+[02-Jan-2025 23:48:18 UTC] AjaxHandler initialized
+[02-Jan-2025 23:50:17 UTC] AjaxHandler initialized
+[02-Jan-2025 23:50:19 UTC] AjaxHandler initialized
+[02-Jan-2025 23:52:18 UTC] AjaxHandler initialized
+[02-Jan-2025 23:52:20 UTC] AjaxHandler initialized
+[02-Jan-2025 23:54:19 UTC] AjaxHandler initialized
+[02-Jan-2025 23:54:21 UTC] AjaxHandler initialized
+[02-Jan-2025 23:56:20 UTC] AjaxHandler initialized
+[02-Jan-2025 23:56:22 UTC] AjaxHandler initialized
+[02-Jan-2025 23:58:21 UTC] AjaxHandler initialized
+[02-Jan-2025 23:58:23 UTC] AjaxHandler initialized
+[03-Jan-2025 00:00:22 UTC] AjaxHandler initialized
+[03-Jan-2025 00:00:24 UTC] AjaxHandler initialized
+[03-Jan-2025 00:00:28 UTC] AjaxHandler initialized
+[03-Jan-2025 00:02:23 UTC] AjaxHandler initialized
+[03-Jan-2025 00:02:28 UTC] AjaxHandler initialized
+[03-Jan-2025 00:04:24 UTC] AjaxHandler initialized
+[03-Jan-2025 00:04:29 UTC] AjaxHandler initialized
+[03-Jan-2025 00:06:25 UTC] AjaxHandler initialized
+[03-Jan-2025 00:06:30 UTC] AjaxHandler initialized
+[03-Jan-2025 00:08:26 UTC] AjaxHandler initialized
+[03-Jan-2025 00:08:31 UTC] AjaxHandler initialized
+[03-Jan-2025 00:10:27 UTC] AjaxHandler initialized
+[03-Jan-2025 00:10:32 UTC] AjaxHandler initialized
+[03-Jan-2025 00:12:28 UTC] AjaxHandler initialized
+[03-Jan-2025 00:12:33 UTC] AjaxHandler initialized
+[03-Jan-2025 00:14:29 UTC] AjaxHandler initialized
+[03-Jan-2025 00:14:34 UTC] AjaxHandler initialized
+[03-Jan-2025 00:16:30 UTC] AjaxHandler initialized
+[03-Jan-2025 00:16:35 UTC] AjaxHandler initialized
+[03-Jan-2025 00:18:31 UTC] AjaxHandler initialized
+[03-Jan-2025 00:18:36 UTC] AjaxHandler initialized
+[03-Jan-2025 00:20:32 UTC] AjaxHandler initialized
+[03-Jan-2025 00:20:37 UTC] AjaxHandler initialized
+[03-Jan-2025 00:22:33 UTC] AjaxHandler initialized
+[03-Jan-2025 00:22:38 UTC] AjaxHandler initialized
+[03-Jan-2025 00:24:34 UTC] AjaxHandler initialized
+[03-Jan-2025 00:24:39 UTC] AjaxHandler initialized
+[03-Jan-2025 00:26:35 UTC] AjaxHandler initialized
+[03-Jan-2025 00:26:40 UTC] AjaxHandler initialized
+[03-Jan-2025 00:28:36 UTC] AjaxHandler initialized
+[03-Jan-2025 00:28:41 UTC] AjaxHandler initialized
+[03-Jan-2025 00:30:37 UTC] AjaxHandler initialized
+[03-Jan-2025 00:30:42 UTC] AjaxHandler initialized
+[03-Jan-2025 00:32:38 UTC] AjaxHandler initialized
+[03-Jan-2025 00:32:43 UTC] AjaxHandler initialized
+[03-Jan-2025 00:34:39 UTC] AjaxHandler initialized
+[03-Jan-2025 00:34:44 UTC] AjaxHandler initialized
+[03-Jan-2025 00:36:40 UTC] AjaxHandler initialized
+[03-Jan-2025 00:36:45 UTC] AjaxHandler initialized
+[03-Jan-2025 00:38:41 UTC] AjaxHandler initialized
+[03-Jan-2025 00:38:46 UTC] AjaxHandler initialized
+[03-Jan-2025 00:40:42 UTC] AjaxHandler initialized
+[03-Jan-2025 00:40:47 UTC] AjaxHandler initialized
+[03-Jan-2025 21:46:42 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:01 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[03-Jan-2025 21:47:05 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:06 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:07 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[03-Jan-2025 21:47:09 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:09 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:10 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:11 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:12 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:13 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:13 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:19 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:39 UTC] AjaxHandler initialized
+[03-Jan-2025 21:47:41 UTC] AjaxHandler initialized
+[03-Jan-2025 21:48:10 UTC] AjaxHandler initialized
+[03-Jan-2025 21:48:11 UTC] AjaxHandler initialized
+[03-Jan-2025 21:48:21 UTC] AjaxHandler initialized
+[03-Jan-2025 21:48:23 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[03-Jan-2025 21:48:25 UTC] AjaxHandler initialized
+[03-Jan-2025 21:48:41 UTC] AjaxHandler initialized
+[03-Jan-2025 21:48:42 UTC] AjaxHandler initialized
+[03-Jan-2025 21:50:42 UTC] AjaxHandler initialized
+[03-Jan-2025 21:50:42 UTC] AjaxHandler initialized
+[03-Jan-2025 21:52:42 UTC] AjaxHandler initialized
+[03-Jan-2025 21:52:42 UTC] AjaxHandler initialized
+[03-Jan-2025 21:54:43 UTC] AjaxHandler initialized
+[03-Jan-2025 21:54:43 UTC] AjaxHandler initialized
+[03-Jan-2025 21:56:44 UTC] AjaxHandler initialized
+[03-Jan-2025 21:56:44 UTC] AjaxHandler initialized
+[03-Jan-2025 21:58:45 UTC] AjaxHandler initialized
+[03-Jan-2025 21:58:45 UTC] AjaxHandler initialized
+[03-Jan-2025 22:42:12 UTC] AjaxHandler initialized
+[03-Jan-2025 22:42:12 UTC] AjaxHandler initialized
+[03-Jan-2025 22:42:16 UTC] AjaxHandler initialized
+[03-Jan-2025 22:42:37 UTC] AjaxHandler initialized
+[03-Jan-2025 22:42:42 UTC] AjaxHandler initialized
+[03-Jan-2025 22:42:42 UTC] AjaxHandler initialized
+[03-Jan-2025 22:42:42 UTC] AjaxHandler initialized
+[03-Jan-2025 22:42:53 UTC] AjaxHandler initialized
+[03-Jan-2025 22:43:03 UTC] AjaxHandler initialized
+[03-Jan-2025 22:43:13 UTC] AjaxHandler initialized
+[03-Jan-2025 22:43:22 UTC] AjaxHandler initialized
+[03-Jan-2025 22:44:43 UTC] AjaxHandler initialized
+[03-Jan-2025 22:44:43 UTC] AjaxHandler initialized
+[03-Jan-2025 22:45:23 UTC] AjaxHandler initialized
+[03-Jan-2025 22:46:44 UTC] AjaxHandler initialized
+[03-Jan-2025 22:46:44 UTC] AjaxHandler initialized
+[03-Jan-2025 22:47:24 UTC] AjaxHandler initialized
+[03-Jan-2025 22:48:46 UTC] AjaxHandler initialized
+[03-Jan-2025 22:48:46 UTC] AjaxHandler initialized
+[03-Jan-2025 22:49:25 UTC] AjaxHandler initialized
+[03-Jan-2025 22:50:46 UTC] AjaxHandler initialized
+[03-Jan-2025 22:50:46 UTC] AjaxHandler initialized
+[03-Jan-2025 22:51:26 UTC] AjaxHandler initialized
+[03-Jan-2025 22:53:27 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:16 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:16 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:19 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:29 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:33 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:39 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:46 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:49 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:49 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:57 UTC] AjaxHandler initialized
+[03-Jan-2025 23:33:59 UTC] AjaxHandler initialized
+[03-Jan-2025 23:34:22 UTC] AjaxHandler initialized
+[03-Jan-2025 23:34:26 UTC] AjaxHandler initialized
+[03-Jan-2025 23:34:26 UTC] AjaxHandler initialized
+[03-Jan-2025 23:35:16 UTC] AjaxHandler initialized
+[03-Jan-2025 23:35:16 UTC] AjaxHandler initialized
+[03-Jan-2025 23:36:27 UTC] AjaxHandler initialized
+[03-Jan-2025 23:37:18 UTC] AjaxHandler initialized
+[03-Jan-2025 23:37:18 UTC] AjaxHandler initialized
+[03-Jan-2025 23:38:28 UTC] AjaxHandler initialized
+[03-Jan-2025 23:39:19 UTC] AjaxHandler initialized
+[03-Jan-2025 23:39:19 UTC] AjaxHandler initialized
+[03-Jan-2025 23:40:29 UTC] AjaxHandler initialized
+[03-Jan-2025 23:41:20 UTC] AjaxHandler initialized
+[03-Jan-2025 23:41:20 UTC] AjaxHandler initialized
+[03-Jan-2025 23:42:10 UTC] AjaxHandler initialized
+[03-Jan-2025 23:42:15 UTC] AjaxHandler initialized
+[03-Jan-2025 23:42:20 UTC] AjaxHandler initialized
+[03-Jan-2025 23:42:30 UTC] AjaxHandler initialized
+[03-Jan-2025 23:42:33 UTC] AjaxHandler initialized
+[03-Jan-2025 23:42:58 UTC] AjaxHandler initialized
+[03-Jan-2025 23:43:02 UTC] AjaxHandler initialized
+[03-Jan-2025 23:43:02 UTC] AjaxHandler initialized
+[03-Jan-2025 23:43:06 UTC] AjaxHandler initialized
+[03-Jan-2025 23:43:20 UTC] AjaxHandler initialized
+[03-Jan-2025 23:43:20 UTC] AjaxHandler initialized
+[03-Jan-2025 23:44:11 UTC] AjaxHandler initialized
+[03-Jan-2025 23:46:12 UTC] AjaxHandler initialized
+[03-Jan-2025 23:48:13 UTC] AjaxHandler initialized
+[03-Jan-2025 23:50:14 UTC] AjaxHandler initialized
+[03-Jan-2025 23:52:15 UTC] AjaxHandler initialized
+[04-Jan-2025 00:20:37 UTC] AjaxHandler initialized
+[04-Jan-2025 00:20:41 UTC] AjaxHandler initialized
+[04-Jan-2025 00:20:45 UTC] AjaxHandler initialized
+[04-Jan-2025 00:20:46 UTC] AjaxHandler initialized
+[04-Jan-2025 00:20:56 UTC] AjaxHandler initialized
+[04-Jan-2025 00:21:05 UTC] AjaxHandler initialized
+[04-Jan-2025 00:21:06 UTC] AjaxHandler initialized
+[04-Jan-2025 00:21:17 UTC] AjaxHandler initialized
+[04-Jan-2025 00:21:20 UTC] AjaxHandler initialized
+[04-Jan-2025 00:21:20 UTC] AjaxHandler initialized
+[04-Jan-2025 00:21:30 UTC] AjaxHandler initialized
+[04-Jan-2025 00:21:41 UTC] AjaxHandler initialized
+[04-Jan-2025 00:23:42 UTC] AjaxHandler initialized
+[04-Jan-2025 00:25:43 UTC] AjaxHandler initialized
+[04-Jan-2025 00:27:44 UTC] AjaxHandler initialized
+[04-Jan-2025 00:29:45 UTC] AjaxHandler initialized
+[04-Jan-2025 00:31:46 UTC] AjaxHandler initialized
+[04-Jan-2025 00:33:47 UTC] AjaxHandler initialized
+[04-Jan-2025 00:35:48 UTC] AjaxHandler initialized
+[04-Jan-2025 00:37:49 UTC] AjaxHandler initialized
+[04-Jan-2025 00:39:50 UTC] AjaxHandler initialized
+[04-Jan-2025 00:41:51 UTC] AjaxHandler initialized
+[04-Jan-2025 00:43:52 UTC] AjaxHandler initialized
+[04-Jan-2025 00:45:53 UTC] AjaxHandler initialized
+[04-Jan-2025 00:47:54 UTC] AjaxHandler initialized
+[04-Jan-2025 00:49:55 UTC] AjaxHandler initialized
+[04-Jan-2025 00:51:56 UTC] AjaxHandler initialized
+[04-Jan-2025 00:53:57 UTC] AjaxHandler initialized
+[04-Jan-2025 00:55:58 UTC] AjaxHandler initialized
+[04-Jan-2025 00:57:59 UTC] AjaxHandler initialized
+[04-Jan-2025 01:00:00 UTC] AjaxHandler initialized
+[04-Jan-2025 01:02:01 UTC] AjaxHandler initialized
+[04-Jan-2025 01:04:02 UTC] AjaxHandler initialized
+[04-Jan-2025 01:04:22 UTC] AjaxHandler initialized
+[04-Jan-2025 01:04:32 UTC] AjaxHandler initialized
+[04-Jan-2025 01:04:42 UTC] AjaxHandler initialized
+[04-Jan-2025 01:04:52 UTC] AjaxHandler initialized
+[04-Jan-2025 01:05:03 UTC] AjaxHandler initialized
+[04-Jan-2025 01:07:04 UTC] AjaxHandler initialized
+[04-Jan-2025 01:07:35 UTC] AjaxHandler initialized
+[04-Jan-2025 01:07:37 UTC] AjaxHandler initialized
+[04-Jan-2025 01:08:42 UTC] AjaxHandler initialized
+[04-Jan-2025 01:09:42 UTC] AjaxHandler initialized
+[04-Jan-2025 01:10:43 UTC] AjaxHandler initialized
+[04-Jan-2025 01:12:44 UTC] AjaxHandler initialized
+[04-Jan-2025 01:14:45 UTC] AjaxHandler initialized
+[04-Jan-2025 01:16:46 UTC] AjaxHandler initialized
+[04-Jan-2025 01:18:47 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:19 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:28 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:32 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[04-Jan-2025 09:51:38 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:38 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:41 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:41 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-event-shortcode.php on line 25
+[04-Jan-2025 09:51:44 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:44 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:45 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:47 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:47 UTC] AjaxHandler initialized
+[04-Jan-2025 09:51:48 UTC] AjaxHandler initialized
+[04-Jan-2025 09:52:36 UTC] AjaxHandler initialized
+[04-Jan-2025 09:53:36 UTC] AjaxHandler initialized
+[04-Jan-2025 09:53:43 UTC] AjaxHandler initialized
+[04-Jan-2025 09:53:46 UTC] AjaxHandler initialized
+[04-Jan-2025 09:53:56 UTC] AjaxHandler initialized
+[04-Jan-2025 09:54:00 UTC] AjaxHandler initialized
+[04-Jan-2025 09:54:00 UTC] AjaxHandler initialized
+[04-Jan-2025 09:54:07 UTC] AjaxHandler initialized
+[04-Jan-2025 09:54:10 UTC] AjaxHandler initialized
+[04-Jan-2025 09:54:22 UTC] AjaxHandler initialized
+[04-Jan-2025 09:54:25 UTC] AjaxHandler initialized
+[04-Jan-2025 09:54:25 UTC] AjaxHandler initialized
+[04-Jan-2025 09:54:28 UTC] AjaxHandler initialized
+[04-Jan-2025 09:55:32 UTC] AjaxHandler initialized
+[04-Jan-2025 09:55:45 UTC] AjaxHandler initialized
+[04-Jan-2025 09:55:47 UTC] AjaxHandler initialized
+[04-Jan-2025 09:56:33 UTC] AjaxHandler initialized
+[04-Jan-2025 09:57:18 UTC] AjaxHandler initialized
+[04-Jan-2025 09:57:18 UTC] AjaxHandler initialized
+[04-Jan-2025 09:57:33 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:04 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:08 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:08 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:18 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:29 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:39 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:39 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:40 UTC] AjaxHandler initialized
+[04-Jan-2025 09:58:57 UTC] AjaxHandler initialized
+[04-Jan-2025 09:59:08 UTC] AjaxHandler initialized
+[04-Jan-2025 09:59:10 UTC] AjaxHandler initialized
+[04-Jan-2025 09:59:10 UTC] AjaxHandler initialized
+[04-Jan-2025 09:59:38 UTC] AjaxHandler initialized
+[04-Jan-2025 09:59:43 UTC] AjaxHandler initialized
+[04-Jan-2025 10:00:05 UTC] AjaxHandler initialized
+[04-Jan-2025 10:00:05 UTC] AjaxHandler initialized
+[04-Jan-2025 10:00:42 UTC] AjaxHandler initialized
+[04-Jan-2025 10:00:46 UTC] AjaxHandler initialized
+[04-Jan-2025 10:00:46 UTC] AjaxHandler initialized
+[04-Jan-2025 10:00:53 UTC] AjaxHandler initialized
+[04-Jan-2025 10:00:56 UTC] AjaxHandler initialized
+[04-Jan-2025 10:01:55 UTC] AjaxHandler initialized
+[04-Jan-2025 10:01:55 UTC] AjaxHandler initialized
+[04-Jan-2025 10:01:57 UTC] AjaxHandler initialized
+[04-Jan-2025 10:02:25 UTC] AjaxHandler initialized
+[04-Jan-2025 10:02:26 UTC] AjaxHandler initialized
+[04-Jan-2025 10:04:04 UTC] AjaxHandler initialized
+[04-Jan-2025 10:04:34 UTC] AjaxHandler initialized
+[04-Jan-2025 10:04:34 UTC] AjaxHandler initialized
+[04-Jan-2025 10:06:00 UTC] AjaxHandler initialized
+[04-Jan-2025 10:06:28 UTC] AjaxHandler initialized
+[04-Jan-2025 10:06:28 UTC] AjaxHandler initialized
+[04-Jan-2025 10:08:01 UTC] AjaxHandler initialized
+[04-Jan-2025 10:08:28 UTC] AjaxHandler initialized
+[04-Jan-2025 10:08:29 UTC] AjaxHandler initialized
+[04-Jan-2025 10:10:02 UTC] AjaxHandler initialized
+[04-Jan-2025 10:10:30 UTC] AjaxHandler initialized
+[04-Jan-2025 10:10:30 UTC] AjaxHandler initialized
+[04-Jan-2025 10:12:26 UTC] PHP Warning:  Undefined array key "event_slug" in /var/www/html/wp-content/plugins/custom-event-plugin/includes/class-ajax-handler.php on line 15
